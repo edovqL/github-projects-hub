@@ -1,4 +1,4 @@
-# Github Repositories Explorer
+# Github Projects Hub
 
 This project build using Stack:
 
