@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertical */
+    align-items: center; /* Horizontal */
+}
+
+.header {
+    font-size: 3rem;
+    margin: 0;
+    color: #343a40;
+}
+
+.message {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: #6c757d;
+}
