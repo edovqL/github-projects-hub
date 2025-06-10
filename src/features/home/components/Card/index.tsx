@@ -38,8 +38,8 @@ const Card: FC<CardProps> = ({ data, isLoading }) => {
                                             }}
                                         >
                                             View Readme
+                                            <Preview open={open} onClose={closeModal} />  
                                         </button>
-                                        <Preview open={open} onClose={closeModal} />
                                     </div>
                                     <span className="text-[#000000] text-[15px] mt-1 break-words">{truncateText(repo.description, 150)}</span>
                                 </div>

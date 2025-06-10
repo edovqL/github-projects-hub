@@ -14,7 +14,7 @@ const Preview = ({ open, onClose }: PreviewProps) => {
 
     const { data: readmeData, isLoading: isLoadingReadme } = useReadmeByUsernameAndRepoQuery(
         { username: params?.username, repo: params?.repo },
-        !isEmpty(params)
+        !isEmpty(params) && open
     );
 
     const source = `${readmeData?.download_content}`;
