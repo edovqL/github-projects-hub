@@ -31,7 +31,7 @@ const Card: FC<CardProps> = ({ data, isLoading }) => {
                                     >
                                         <span className="text-[#000000] font-bold text-[18px] break-words">{repo.name}</span>
                                         <button
-                                            className="text-[#000000] text-[14px] hover:cursor-pointer"
+                                            className="text-[#000000] text-[14px] hover:cursor-pointer text-underline hover:text-[#2c9cdb]"
                                             onClick={() => {
                                                 setQueryParams({ username: repo.owner.login, repo: repo.name });
                                                 setOpen((open) => !open);
