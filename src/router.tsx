@@ -20,10 +20,6 @@ const router = createBrowserRouter([
                     </Suspense>
                 ),
             },
-            {
-                path: 'project/:id',
-                element: <Suspense fallback={<Spinner />}></Suspense>,
-            },
         ],
     },
 
