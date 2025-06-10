@@ -9,7 +9,7 @@
    A project can search username and projects or repositories in Github
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github-projects-hub.vercel.app">View Demo</a>
 
   </p>
 </div>
