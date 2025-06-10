@@ -76,10 +76,9 @@ This is an example of how to list things you need to use the software and how to
     VITE_GITHUB_API_URL = 'https://api.github.com';
     VITE_LIMIT_DATA = 5; // Example limit when we want to get
     ```
-5. Change git remote url to avoid accidental pushes to base project
+5. How to run project
     ```sh
-    git remote set-url origin github_username/repo_name
-    git remote -v # confirm the changes
+    yarn dev
     ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -88,9 +87,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Record
 
-
 https://github.com/user-attachments/assets/93fd7201-b78d-4d3d-8bd9-75e4a043678d
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
