@@ -32,7 +32,7 @@ const HomeFeatures = () => {
                 }}
             >
                 <div className="grid grid-cols-12 gap-3 items-center">
-                    <div className="col-span-11">
+                    <div className="lg:col-span-11 col-span-12">
                         <SearchBox
                             value={params.search}
                             handleSearch={(value) => setQueryParams({ search: value })}
@@ -40,7 +40,7 @@ const HomeFeatures = () => {
                             placeholder="Enter username"
                         />
                     </div>
-                    <div className="col-span-1">
+                    <div className="lg:col-span-1 col-span-12">
                         <Filter
                             options={options}
                             selectedOption={params.limit ?? LIMIT_DATA}

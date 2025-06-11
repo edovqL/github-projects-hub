@@ -18,7 +18,7 @@ const Dropdown: React.FC<DropdownProps> = ({ options, selectedOption, onChange }
         <div className="relative w-25 text-sm h-10">
             {/* Button */}
             <button
-                className="w-full h-full text-[15px] flex justify-between items-center px-2 py-1 bg-[#2c9cdb] text-white rounded-sm focus:outline-none focus:ring-1 focus:ring-blue-300"
+                className="w-full lg:h-full text-[15px] flex justify-between items-center px-2 py-1 bg-[#2c9cdb] text-white rounded-sm focus:outline-none focus:ring-1 focus:ring-blue-300"
                 onClick={() => setIsOpen(!isOpen)}
             >
                 {selectedOption}
