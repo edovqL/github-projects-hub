@@ -61,7 +61,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/alpredovandy/github-projects-hub.git
+    git clone https://github.com/edovqL/github-projects-hub.git
     ```
 2. Move to repo
     ```sh
@@ -95,8 +95,8 @@ https://github.com/user-attachments/assets/93fd7201-b78d-4d3d-8bd9-75e4a043678d
 
 ## Top contributors:
 
-<a href="https://github.com/alpredovandy/github-projects-hub/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=alpredovandy/github-projects-hub" alt="contrib.rocks image" />
+<a href="https://github.com/edovqL/github-projects-hub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=edovqL/github-projects-hub" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -107,7 +107,7 @@ https://github.com/user-attachments/assets/93fd7201-b78d-4d3d-8bd9-75e4a043678d
 
 Alpredo Pandiangan - alpredo.vandy@gmail.com
 
-Project Link: [https://github.com/alpredovandy/github-projects-hub](https://github.com/alpredovandy/github-projects-hub)
+Project Link: [https://github.com/edovqL/github-projects-hub](https://github.com/edovqL/github-projects-hub)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
